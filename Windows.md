@@ -2,6 +2,8 @@
 
 1 下载安装软件： 
 
+|[V2RayN](http://d.v2server.ga/v2.zip)|
+
 |[V2RayN-推荐](https://github.com/V2Server/V2Ray/raw/master/v2rayN-Core.zip)|[V2RayN-GitHub](https://github.com/2dust/v2rayN/releases)|
 
 2 打开软件后-左上角【订阅】按钮-【订阅设置】-左下角【添加】-粘贴【地址url】订阅地址-右下角点击【确定】。
