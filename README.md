@@ -32,8 +32,6 @@
 
 [1] [APPLE ID苹果美区账号免费账号共享](https://shadowsockshelp.github.io/Shadowsocks/appleid.html)
 
-[2] [SS/ShadowsocksR付費穩定服務器！一鍵接入，鏈接全球！](https://s-s-r.github.io/)
-
 ## 5 申明
 
 以上信息所有使用者需要遵循使用者所在国家以及服务器所在国家的法律法规。
