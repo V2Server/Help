@@ -32,7 +32,7 @@
 
 [1] [Shadowrocket小火箭在线安装](https://v2server.github.io/ios/)
 
-[2] [APPLE ID苹果美区账号免费账号共享](https://shadowsockshelp.github.io/Shadowsocks/appleid.html)
+[2] [APPLE ID苹果美区账号免费账号共享](AppleID.md)
 
 ## 5 申明
 
