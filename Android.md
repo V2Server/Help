@@ -1,9 +1,9 @@
 # 安卓 Android 使用 V2Ray 设置教程
 
-1 下载软件：
-
-|[BifrostV](https://github.com/V2Server/V2Ray/raw/master/bifrostv-v0.6.8.apk)|[V2RayNG-GitHub](https://github.com/2dust/v2rayNG/releases)|
-
-|[app-arm64-v8a](https://github.com/V2Server/V2Ray/raw/master/app-arm64-v8a-release.apk)|[app-armeabi-v7a](https://github.com/V2Server/V2Ray/raw/master/app-armeabi-v7a-release.apk)|[app-x86](https://github.com/V2Server/V2Ray/raw/master/app-x86-release.apk)|[app-x86_64](https://github.com/V2Server/V2Ray/raw/master/app-x86_64-release.apk)|
-
-2 安装好软件，直接扫节点二维码即可使用。
+<p>[1] 选择下载可以安装使用的软件</p>
+<p>[2]下载安装：【<a title="V2Server" href="http://d.v2server.ga/down/app-armeabi-v7a-release.apk" target="_blank">armeabi-v7a</a>】 【<a title="V2Server" href="http://d.v2server.ga/down/app-arm64-v8a-release.apk" target="_blank">arm64-v8a</a>】 【<a title="V2Server" href="http://d.v2server.ga/down/app-x86-release.apk" target="_blank">app-x86</a>】 【<a title="V2Server" href="http://d.v2server.ga/down/app-x86_64-release.apk" target="_blank">x86_64</a>】 【<a title="V2Server" href="http://d.v2server.ga/down/app-universal-release.apk" target="_blank">universal</a>】 【<a title="V2Server" href="https://github.com/2dust/v2rayNG/releases" target="_blank">GitHub</a>】</p>
+<p>[3] 安装好软件，直接扫节点二维码即可使用</p>
+<p>[4] 图文教程-订阅节点</p>
+<p><img src="http://d.v2server.ga/img/a/a1.jpg" alt="" width="500" height="auto" /></p>
+<p><img src="http://d.v2server.ga/img/a/a2.jpg" alt="" width="500" height="auto" /></p>
+<p><img src="http://d.v2server.ga/img/a/a3.jpg" alt="" width="500" height="auto" /></p>
