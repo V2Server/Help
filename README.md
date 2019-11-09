@@ -12,7 +12,7 @@
 
 [1] V2Ray同样使用简单，下载[V2Ray客户端软件](https://v2server.github.io/V2Ray/)后，添加[节点信息](https://v2server.github.io/)即可使用。
 
-[2] [点击注册，获取V2Ray节点信息](https://v2server.github.io/)
+[2] [点击注册，获取V2Ray节点信息](https://v2server.github.io/) 【推荐】
 
 ## 3 V2Ray设置教程
 
