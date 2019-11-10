@@ -6,3 +6,7 @@
 <p>使用共享账号请勿登录iCloud，iCloud和App Store是可以分别登陆的，共享账号只能在App Store登陆。</p>
 <p>登录App Store 共享账号后，搜索需要下载的软件全称，下载完成后请及时退出账号，解锁邮件解锁即可。</p>
 <p><img src="img/appleid.jpg" alt="" width="600" height="auto" /></p>
+
+
+### [<< 返回首页](https://v2server.github.io/Help/)
+
