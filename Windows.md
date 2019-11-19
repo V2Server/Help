@@ -1,6 +1,6 @@
 # 微软 Windows 使用 V2Ray 设置教程
 
-<p>[1] 下载文件：【<a title="V2Server" href="http://d.v2server.ga/down/v2rayN-Core-2.48.zip" target="_blank">v2rayN-Core</a>】【<a title="V2Server" href="http://d.v2server.ga/down/v2rayN-2.48.zip" target="_blank">v2rayN</a>】【<a title="V2Server" href="https://github.com/2dust/v2rayN/releases" target="_blank">GitHub</a>】 选择下载一个即可，下载后解压文件打开</p>
+<p>[1] 下载文件：【<a title="V2Server" href="http://d.v2server.ga/down/v2rayN-Core-2.48.zip" target="_blank">v2rayN-Core</a>】【<a title="V2Server" href="http://d.v2server.ga/down/v2rayN-2.48.zip" target="_blank">v2rayN</a>】【<a title="V2Server" href="https://github.com/2dust/v2rayN/releases" target="_blank">GitHub</a>】【<a title="V2Server" href="https://v2server.github.io/V2Ray/" target="_blank">备用下载</a>】选择下载一个即可，下载后解压文件打开</p>
 <img src="img/w/w1.JPG" alt="" width="500" height="auto" />
 <p>[2] 点击软件左上角【订阅】按钮-【订阅设置】</p>
 <img src="img/w/w2.JPG" alt="" width="500" height="auto" />
