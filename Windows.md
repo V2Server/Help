@@ -14,7 +14,7 @@
 <img src="img/w/w6.JPG" alt="" width="500" height="auto" />
 <p>[7] 单击右下角V图标-启用HTTP代理-HTPP代理模式-开启PAC，并自动配置PAC</p>
 <img src="img/w/w7.JPG" alt="" width="500" height="auto" />
-<p>[8] 请务必保证本地电脑时间与UTC+8(大陆北京、港澳、台湾的时间)一致，然后打开google.com进行测试</p>
+<p>[8] 请务必保证本地电脑时间与UTC+8(即大陆北京时间)一致，然后打开google.com进行测试</p>
 <img src="img/w/w8.JPG" alt="" width="500" height="auto" />
 
 ### [<< 返回首页](https://v2server.github.io/Help/)
